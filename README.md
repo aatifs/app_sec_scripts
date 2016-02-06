@@ -1,10 +1,10 @@
 # app_sec_scripts
-Some basic scripts to automate what can be automated!
-
+Contains:
+1. Script to check if an URL is vulnerable to Host Header Injection.
 
 Dependencies for host_header_check.py:
 pip install requests
 
-Run:
+To Run:
 
-python host_header_check.py http://example.com
+~$ python host_header_check.py http://example.com
