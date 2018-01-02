@@ -18,4 +18,5 @@
 **To Run:**
 
 ~$ python host_header_check.py http://example.com
+
 ~$ python cors_misconfig.py http://example.com
